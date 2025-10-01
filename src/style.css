@@ -6,6 +6,7 @@
 
 body {
   margin-top: 100px;
+  
 }
 
 h1,
@@ -103,9 +104,10 @@ p {
   color: white;
 }
 
-.img-fluid rounded weather-image{
+.yoga-image{
   max-width: 100%;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
 }
+
