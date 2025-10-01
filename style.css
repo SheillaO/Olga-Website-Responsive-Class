@@ -102,3 +102,10 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+
+.img-fluid rounded weather-image{
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
